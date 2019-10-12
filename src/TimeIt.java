@@ -11,3 +11,6 @@ public class TimeIt {
 		}
 	}
 }
+
+
+// Copyright Ivana Vukasinovic, 2019

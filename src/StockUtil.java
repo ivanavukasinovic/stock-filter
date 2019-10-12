@@ -44,3 +44,6 @@ public class StockUtil {
 		}
 	};
 }
+
+
+// Copyright Ivana Vukasinovic, 2019

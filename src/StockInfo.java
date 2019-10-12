@@ -8,7 +8,11 @@ public class StockInfo {
 		price = thePrice;
 	}
 
+
 	public String toString() {
 		return ticker + " " + price + ", ";
 	}
 }
+
+
+// Copyright Ivana Vukasinovic, 2019
